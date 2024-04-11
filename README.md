@@ -1,6 +1,6 @@
 # RAB5-OSIRE Hardware Design Files
 
-The RAB5-OSIRE is an evaluation board featuring the ams OSRAM OSIRE® E3731i and OSIRE® E5515 LEDs with a ams OSRAM AS1163 Stand-alone intelligent driver. The on-board RPX-1.5Q 1.5A 5V can provide more power for the external LED stripes.
+The RAB5-OSIRE is an evaluation board featuring the ams OSRAM OSIRE® E3731i and OSIRE® E5515 LEDs with a ams OSRAM AS1163 Stand-alone intelligent driver. The on-board automitive power supply from RECOM RPX-1.5Q can provide more power for the external LED stripes.
 
 <img src="images/RAB5_OSIRE_top.jpg" style="zoom:90%;" />
 
